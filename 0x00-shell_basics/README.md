@@ -10,3 +10,5 @@
 
 5-listfilesdigitonly : Display current directory contents.(long format with user and group IDs displayed numerically and hidden files starting with .
 
+6-firstdirectory : Create adirectory named my_first_directory on the tmp directory.
+
