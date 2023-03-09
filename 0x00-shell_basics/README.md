@@ -3,3 +3,5 @@
 1-listit: script displays contents list of your current directory.
 
 2-bring_me_home : change working directory to Home
+
+3-listfiles : Display current directory contents in a long format
