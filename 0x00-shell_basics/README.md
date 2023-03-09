@@ -20,3 +20,5 @@
 
 # 10-back : change working directory to previous one
 
+# 11-lists : Script to list items in current directory including hidden and /boot
+
