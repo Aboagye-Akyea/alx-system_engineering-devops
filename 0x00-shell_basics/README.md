@@ -28,4 +28,6 @@
 
 # 14-copy_html " Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.You can consider that all HTML files have the extension .html
 
-#100-lets_move : create a script that moves all files begining with uppercase to /tmp/u
+# 100-lets_move : create a script that moves all files begining with uppercase to /tmp/u
+
+# 101-clean_emacs : Create a script that deletes all files in the current working directory that end with the character ~.
