@@ -9,3 +9,7 @@
 # 4-empty : write a script that creates an empty file called hello
 
 # 5-execute : Write a script that adds execute permission to the owner of the file hello
+
+# 6-multiple_permissions : writes a script that executes premission to the owner, group and other users
+
+#7-everybody : add execution permission without using commas
