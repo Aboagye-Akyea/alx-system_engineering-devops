@@ -35,3 +35,5 @@
 # 102-tree : script to create directories using -p to create parent directories
 
 # 103-commas : list files in directory separated with commas
+
+# school.mgc : Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
