@@ -12,4 +12,6 @@
 
 # 6-multiple_permissions : writes a script that executes premission to the owner, group and other users
 
-#7-everybody : add execution permission without using commas
+# 7-everybody : add execution permission without using commas
+
+# 8-James_Bond : remove all permissions from owner and group and give full permissions to ther users
